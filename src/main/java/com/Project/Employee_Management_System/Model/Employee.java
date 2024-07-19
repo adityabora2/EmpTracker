@@ -13,11 +13,11 @@ public class Employee {
     public Employee() {
     }
 
-    public Employee(Long Id, String Name, String Department, Double Salary) {
-        this.id = Id;
-        this.name = Name;
-        this.department = Department;
-        this.salary = Salary;
+    public Employee(Long id, String name, String department, Double salary) {
+        this.id = id;
+        this.name = name;
+        this.department = department;
+        this.salary = salary;
     }
 
     
@@ -26,32 +26,32 @@ public class Employee {
         return id;
     }
 
-    public void setId(Long Id) {
-        this.id = Id;
+    public void setId(Long id) {
+        this.id = id;
     }
 
     public String getName() {
         return name;
     }
 
-    public void setName(String Name) {
-        this.name = Name;
+    public void setName(String name) {
+        this.name = name;
     }
 
     public String getDepartment() {
         return department;
     }
 
-    public void setDepartment(String Department) {
-        this.department = Department;
+    public void setDepartment(String department) {
+        this.department = department;
     }
 
     public Double getSalary() {
         return salary;
     }
 
-    public void setSalary(Double Salary) {
-        this.salary = Salary;
+    public void setSalary(Double salary) {
+        this.salary = salary;
     }
 
     @Override
