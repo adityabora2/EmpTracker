@@ -2,7 +2,7 @@ package com.Project.Employee_Management_System.Model;
 
 public class Employee {
     
-	//List of Attributes
+    //List of Attributes
     private Long id;
     private String name;
     private String department;
