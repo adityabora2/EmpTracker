@@ -1,1 +1,6 @@
-A simple project involving an Employee Management System. Created using Springboot, Java, REST API, Eclipse, Postman. This project implements the following endpoints: Add Employee, Get Employee, Delete Employee, Modify Employee.
+Created a simple and efficient employee management system involving CRUD operations on employee records and using Postman for testing API endpoints to ensure correct functionality.
+
+Currently working on the project to further enhance application reliability and reduce downtime by implementing robust validation and exception handling mechanisms. Implementing global exception handling to manage and respond to client errors efficiently. Incorporating validation framework to ensure data integrity and compliance with business rules.
+
+Conclusively leading to a robust employee management system, ensuring efficient handling and management of employee data.
+
